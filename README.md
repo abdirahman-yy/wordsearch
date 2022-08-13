@@ -2,7 +2,7 @@
 
 This project was created in September of 2020
 
-Word searches create two interesting, and closely related, challenges. I developed this project to solve problems posed by word searches. 
+Word searches create two interesting, and closely related, challenges. I developed this project to solve the problems that are posed by word searches. 
 
 The first is when given a 2d grid of characters and a specific string, my word search determines whether or not the string is present, and if so reports not only the location, but direction at which the word can be found. 
 
